@@ -1,4 +1,4 @@
-# taskinator
+# Taskinator
 
 ## Purpose
 Creating KanBan style task manager utilizing JavaScript
